@@ -11,7 +11,7 @@
   <a href="https://github.com/srijansundaram/Flow-Language-VSCode/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
   </a>
-  <a href="https://github.com/srijansundaram/Flow-Language-VSCode">
+  <a href="https://github.com/srijansundaram/Flow-Language-VSCode/releases">
     <img src="https://img.shields.io/github/v/release/srijansundaram/Flow-Language-VSCode?color=blue&label=Release&logo=github" alt="GitHub Release"/>
   </a>
 </p>
