@@ -1,0 +1,22 @@
+# Exclude development and config files
+.vscode/
+node_modules/
+.vscode-test/
+.vscode-test-insiders/
+test/
+tests/
+*.log
+.gitignore
+package-lock.json
+
+# Exclude images not used in Marketplace
+icons/*.svg
+icons/unused/
+screenshots/*.psd
+screenshots/raw/
+
+# Exclude source control files
+.git/
+.github/
+.DS_Store
+Thumbs.db

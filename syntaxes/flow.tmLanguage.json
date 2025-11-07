@@ -1,0 +1,16 @@
+{
+  "scopeName": "source.flow",
+  "patterns": [
+    {
+      "match": "\\b(load|pipeline|emit|filter|sum|group_by|join|ensure|rename|dropduplicates|sortby|select|average)\\b",
+      "name": "keyword.control.flow"
+    },
+    { "match": "\".*?\"", "name": "string.quoted.double.flow" },
+    { "match": "\\b(as|to|on)\\b", "name": "keyword.operator.flow" },
+    { "match": "\\|>", "name": "keyword.operator.pipe.flow" },
+    { "match": "#.*$", "name": "comment.line.number-sign.flow" }
+  ],
+  "repository": {},
+  "fileTypes": ["flow"],
+  "name": "Flow Language"
+}
