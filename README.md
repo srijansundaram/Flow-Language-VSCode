@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".icons/flow-icon.png" alt="Flow Logo" width="128" height="128"/>
+  <img src="icons/flow-icon.png" alt="Flow Logo" width="128" height="128"/>
 </p>
 
 <h1 align="center">🌊 Flow Language Support for VS Code</h1>
