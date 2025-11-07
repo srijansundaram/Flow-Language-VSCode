@@ -1,5 +1,6 @@
 {
   "name": "flow-language-support",
+  "icon": "./icons/flow-icon.png",
   "displayName": "Flow Compiler",
   "description": "A lightweight syntax highlighter and file icon theme for .flow files used in the Flow Compiler project.",
   "version": "1.0.2",
