@@ -86,14 +86,16 @@ flow-lang/
 🧑‍💻 Development
 
 To test locally:
+```
 npm install -g vsce
 vsce package
 code --install-extension flow-lang-1.0.0.vsix
-
+```
 Or launch from VS Code:
+```
 Open folder → Press F5
 A new Extension Development Host window opens
 Open a .flow file to test syntax and icon
-
+```
 
 
