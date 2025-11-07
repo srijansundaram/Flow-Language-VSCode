@@ -1,0 +1,60 @@
+{
+  "name": "flow-language-support",
+  "displayName": "Flow Compiler",
+  "description": "A lightweight syntax highlighter and file icon theme for .flow files used in the Flow Compiler project.",
+  "version": "1.0.0",
+  "publisher": "SrijanSundaram",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "flow",
+        "aliases": [
+          "Flow Language",
+          "flow"
+        ],
+        "extensions": [
+          ".flow"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "flow",
+        "scopeName": "source.flow",
+        "path": "./syntaxes/flow.tmLanguage.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "flow-icon-theme",
+        "label": "Flow File Icons",
+        "path": "./icons/flow-icon-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srijansundaram/FlowCompiler"
+  },
+  "keywords": [
+    "flow",
+    "dsl",
+    "compiler",
+    "syntax-highlighting",
+    "language-support",
+    "icons"
+  ],
+  "icon": "icons/flow-icon.png",
+  "license": "MIT",
+  "author": {
+    "name": "SrijanSundaram",
+    "email": "srijansundram@gmail.com"
+  }
+}
