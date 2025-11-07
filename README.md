@@ -54,8 +54,8 @@ This VS Code extension makes `.flow` files look and behave like a first-class la
 If you want to install directly from this repository:
 
 ```bash
-git clone https://github.com/srijansundaram/FLOW-LANG.git
-cd FLOW-LANG
+git clone https://github.com/srijansundaram/Flow-Language-VSCode.git
+cd Flow-Language-VSCode
 npm install -g @vscode/vsce
 vsce package
 code --install-extension flow-lang-1.0.0.vsix
