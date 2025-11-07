@@ -59,6 +59,7 @@ cd Flow-Language-VSCode
 npm install -g @vscode/vsce
 vsce package
 code --install-extension flow-lang-1.0.0.vsix
+```
 
 
 🧪 Usage
