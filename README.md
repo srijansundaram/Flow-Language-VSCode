@@ -5,8 +5,8 @@
 <h1 align="center">🌊 Flow Language Support for VS Code</h1>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=SrijanSundaram.flow-compiler">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/SrijanSundaram.flow-compiler?color=brightgreen&label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="VS Code Marketplace"/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=SrijanSundaram.flow-language-support">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/SrijanSundaram.flow-language-support?color=brightgreen&label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="VS Code Marketplace"/>
   </a>
   <a href="https://github.com/srijansundaram/Flow-Language-VSCode/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
@@ -14,6 +14,10 @@
   <a href="https://github.com/srijansundaram/Flow-Language-VSCode/releases">
     <img src="https://img.shields.io/github/v/release/srijansundaram/Flow-Language-VSCode?color=blue&label=Release&logo=github" alt="GitHub Release"/>
   </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://marketplace.visualstudio.com/items?itemName=SrijanSundaram.flow-language-support">View on VS Code Marketplace</a>
 </p>
 
 ---
