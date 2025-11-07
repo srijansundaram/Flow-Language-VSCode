@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=SrijanSundaram.flow-language-support">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/SrijanSundaram.flow-language-support?color=brightgreen&label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="VS Code Marketplace"/>
+    <img src="https://img.shields.io/visual-studio-marketplace/v/SrijanSundaram.flow-language-support?color=brightgreen&label=VS%20Code%20Marketplace&logo=visual-studio-code&cacheSeconds=60" alt="VS Code Marketplace Version"/>
   </a>
   <a href="https://github.com/srijansundaram/Flow-Language-VSCode/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
   </a>
-  <a href="https://github.com/srijansundaram/Flow-Language-VSCode/releases">
-    <img src="https://img.shields.io/github/v/release/srijansundaram/Flow-Language-VSCode?color=blue&label=Release&logo=github" alt="GitHub Release"/>
+  <a href="https://github.com/srijansundaram/Flow-Language-VSCode/releases/latest">
+    <img src="https://img.shields.io/github/v/release/srijansundaram/Flow-Language-VSCode?color=blue&label=GitHub%20Release&logo=github&cacheSeconds=60" alt="GitHub Release"/>
   </a>
 </p>
 
