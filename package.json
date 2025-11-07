@@ -51,7 +51,6 @@
     "language-support",
     "icons"
   ],
-  "icon": "icons/flow-icon.png",
   "license": "MIT",
   "author": {
     "name": "SrijanSundaram",
