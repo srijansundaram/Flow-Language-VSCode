@@ -70,7 +70,7 @@ code --install-extension flow-lang-1.0.0.vsix
    Press Ctrl+Shift+P → File Icon Theme: Flow File Icons
 
 🗂 Folder Structure
-
+```
 flow-lang/
 ├── package.json
 ├── README.md
@@ -82,7 +82,7 @@ flow-lang/
 │ ├── flow-icon.svg
 │ └── flow-icon-theme.json
 └── LICENSE
-
+```
 🧑‍💻 Development
 
 To test locally:
@@ -95,5 +95,5 @@ Open folder → Press F5
 A new Extension Development Host window opens
 Open a .flow file to test syntax and icon
 
-```
+
 
