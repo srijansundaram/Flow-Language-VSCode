@@ -96,6 +96,3 @@ Open a .flow file to test syntax and icon
 
 ```
 
-```
-
-```
